@@ -1,1 +1,21 @@
 @import "tailwindcss";
+
+* {
+  margin: 0;
+  padding: 0;
+}
+
+
+
+body {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  position: relative; /* required for absolute pseudo-elements */
+  max-height: 100vh;
+  background-color: #ffffff; /* base background, change if needed */
+  
+}
+
+
