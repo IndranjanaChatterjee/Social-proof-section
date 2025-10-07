@@ -15,7 +15,7 @@ This is a solution to the [Social proof section challenge on Frontend Mentor](ht
 ### Links
 
 - Solution URL: [solution URL](https://github.com/IndranjanaChatterjee/Social-proof-section)
-- Live Site URL: [live site URL](https://intro-component-with-sign-up-form-seven-omega.vercel.app/)
+- Live Site URL: [live site URL](https://social-proof-section-brown-three.vercel.app/)
 
 
 
