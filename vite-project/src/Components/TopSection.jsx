@@ -4,7 +4,7 @@ import RightSection from './RightSection'
 
 export default function TopSection() {
   return (
-    <div>
+    <div className='w-full bg-red-500 md:h-[50%] flex flex-wrap flex-row justify-center lg:justify-between items-center'>
         <LeftSection/>
         <RightSection/>
       
