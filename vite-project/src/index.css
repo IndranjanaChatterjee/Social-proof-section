@@ -1,6 +1,8 @@
 @import "tailwindcss";
 
-
+*{
+  overflow-x: hidden;
+}
 
 
 body {
@@ -9,7 +11,7 @@ body {
   justify-content: center;
   align-items: center;
   position: relative; /* required for absolute pseudo-elements */
-
+ max-width: 100vw;
   background-color: #ffffff; /* base background, change if needed */
   
 }

@@ -10,8 +10,8 @@ function App() {
 
   return (
     <>
-     <div className='w-screen h-full flex flex-col justify-center items-center bg-amber-400'>
-      <div className='w-[85%] h-full flex flex-col flex-wrap justify-center items-center bg-amber-900 py-10 gap-6'>
+     <div className='w-screen h-full flex flex-col justify-center items-center'>
+      <div className='w-[85%] h-full flex flex-col flex-wrap justify-center items-center  py-10 gap-6'>
         <TopSection/>
        
         <BottomSection/>
