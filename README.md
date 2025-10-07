@@ -34,7 +34,7 @@ This is a solution to the [Social proof section challenge on Frontend Mentor](ht
 
 ## Author
 
-- Website - [URL](https://intro-component-with-sign-up-form-seven-omega.vercel.app/)
+- Website - [URL](https://www.indranjanachatterjee.me/)
 - Frontend Mentor - [Indranjana Chatterjee](https://www.frontendmentor.io/profile/IndranjanaChatterjee)
 
 
