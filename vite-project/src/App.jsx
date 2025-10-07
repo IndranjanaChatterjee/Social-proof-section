@@ -16,6 +16,12 @@ function App() {
        
         <BottomSection/>
         </div>
+        <div class="w-full text-center ">
+      Challenge by
+      <a href="https://www.frontendmentor.io?ref=challenge" className='mx-1' target="_blank"
+        >Frontend Mentor</a
+      >. Coded by <a href="https://www.frontendmentor.io/profile/IndranjanaChatterjee" className='mx-1'>Indranjana Chatterjee</a>.
+    </div>
         
       </div>
     </>
